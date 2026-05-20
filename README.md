@@ -4,25 +4,22 @@
 
 ![GPT Image 2 preview](./jxp-gpt-image-2.jpg)
 
-## Field Notes Overview
+## Repository Field Notes
 
-[GPT Image 2](https://www.jxp.com/gpt-image/gpt-image-2) feels most useful when the real goal is fast visual iteration instead of treating every generation pass like a final production step.
+[GPT Image 2](https://www.jxp.com/gpt-image/gpt-image-2) feels useful when the real value is fast visual iteration, concept comparison, and quicker creative decision-making.
 
-This repository now uses a field-notes style theme. The idea is to make the page feel more like a compact working reference for prompt testing, concept comparison, and early creative decision-making.
+This GitHub page now uses a field-notes style theme instead of a generic product landing page. The goal is to make the repository feel more like a compact working reference for prompt testing and workflow review.
 
-## A Practical Use Pattern
+## Practical Workflow Note
 
-One practical way to use [GPT Image 2](https://www.jxp.com/gpt-image/gpt-image-2) is to generate several visual directions for the same concept, compare framing and tone, and only then move the strongest direction into a more polished production workflow.
+A simple use pattern is to generate several visual directions for the same idea, compare framing and tone, and then move only the strongest direction into a more polished production pass.
 
-## Prompt Starter
+## Prompt Reference
 
-> Create three visual directions for the same launch concept: minimal editorial, premium campaign, and bold social-first. Keep the subject clear, the lighting intentional, and the composition readable.
->
-> ## Why This GitHub Angle Is Different
->
-> Instead of acting like a plain landing page, this version works better as a lightweight notes-and-prompt reference. That makes the repository more natural for GitHub visitors who expect reusable structure rather than a one-line promotion.
->
-> ## Official Product Link
->
-> If you want the fuller workflow, examples, and current capabilities, explore the official [GPT Image 2 product page](https://www.jxp.com/gpt-image/gpt-image-2).
-> 
+Create three visual directions for the same launch concept: minimal editorial, premium campaign, and bold social-first. Keep the subject clear, the lighting intentional, and the composition readable.
+
+## Official Product Link
+
+If you want the fuller workflow, examples, and current capabilities, explore the official [GPT Image 2 product page](https://www.jxp.com/gpt-image/gpt-image-2).
+
+You can also review [GPT Image 2](https://www.jxp.com/gpt-image/gpt-image-2) as a fast first-pass tool before moving a concept into a more detailed production workflow.

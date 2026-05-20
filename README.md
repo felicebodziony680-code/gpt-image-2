@@ -6,7 +6,7 @@
 
 ## Field Notes Overview
 
-[GPT Image 2](https://www.jxp.com/gpt-image/gpt-image-2) feels most useful when the real goal is fast visual iteration instead of treating every image generation pass like a final production step.
+[GPT Image 2](https://www.jxp.com/gpt-image/gpt-image-2) feels most useful when the real goal is fast visual iteration instead of treating every generation pass like a final production step.
 
 This repository now uses a field-notes style theme. The idea is to make the page feel more like a compact working reference for prompt testing, concept comparison, and early creative decision-making.
 
@@ -16,14 +16,13 @@ One practical way to use [GPT Image 2](https://www.jxp.com/gpt-image/gpt-image-2
 
 ## Prompt Starter
 
-```text
-Create three visual directions for the same launch concept: minimal editorial, premium campaign, and bold social-first. Keep the subject clear, lighting intentional, and the composition readable.
-```
-
-## Why This GitHub Angle Is Different
-
-Instead of acting like a plain landing page, this version works better as a lightweight notes-and-prompt reference. That makes the repository more natural for GitHub visitors who expect reusable structure rather than a one-line promotion.
-
-## Official Product Link
-
-If you want the fuller workflow, examples, and current capabilities, explore the official [GPT Image 2 product page](https://www.jxp.com/gpt-image/gpt-image-2).
+> Create three visual directions for the same launch concept: minimal editorial, premium campaign, and bold social-first. Keep the subject clear, the lighting intentional, and the composition readable.
+>
+> ## Why This GitHub Angle Is Different
+>
+> Instead of acting like a plain landing page, this version works better as a lightweight notes-and-prompt reference. That makes the repository more natural for GitHub visitors who expect reusable structure rather than a one-line promotion.
+>
+> ## Official Product Link
+>
+> If you want the fuller workflow, examples, and current capabilities, explore the official [GPT Image 2 product page](https://www.jxp.com/gpt-image/gpt-image-2).
+> 
